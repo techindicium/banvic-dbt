@@ -1,0 +1,91 @@
+version: 2
+
+seeds:
+  - name: agencias
+    config:
+      quote_columns: false
+      column_types: 
+        COD_AGENCIA: varchar
+        NOME: varchar
+        ENDERECO: varchar
+        CIDADE: varchar
+        UF: varchar
+        DATA_ABERTURA: varchar
+        TIPO_AGENCIA: varchar
+  
+  - name: clientes
+    config:
+      quote_columns: false
+      column_types: 
+        COD_CLIENTE: varchar
+        PRIMEIRO_NOME: varchar
+        ULTIMO_NOME: varchar
+        EMAIL: varchar
+        TIPO_CLIENTE: varchar
+        DATA_INCLUSAO: varchar
+        CPFCNPJ: varchar
+        DATA_NASCIMENTO: varchar
+        ENDERECO: varchar
+        CEP: varchar
+
+  - name: colaborador_agencia
+    config:
+      quote_columns: false
+      column_types:
+        COD_COLABORADOR: varchar
+        COD_AGENCIA: varchar
+  
+  - name: colaboradores
+    config:
+      quote_columns: false
+      column_types:
+        COD_COLABORADOR: varchar
+        PRIMEIRO_NOME: varchar
+        ULTIMO_NOME: varchar
+        EMAIL: varchar
+        CPF: varchar
+        DATA_NASCIMENTO: varchar
+        ENDERECO: varchar
+        CEP: varchar
+        COD_GERENTE: varchar
+  
+  - name: contas
+    config:
+      quote_columns: false
+      column_types:
+        NUM_CONTA: varchar
+        COD_CLIENTE: varchar
+        COD_AGENCIA: varchar
+        COD_COLABORADOR: varchar
+        TIPO_CONTA: varchar
+        DATA_ABERTURA: varchar
+        SALDO_TOTAL: varchar
+        SALDO_DISPONIVEL: varchar
+        DATA_ULTIMO_LANCAMENTO: varchar
+
+  - name: propostas_credito
+    config:
+      quote_columns: false
+      column_types:
+        COD_PROPOSTA: varchar
+        COD_CLIENTE: varchar
+        COD_COLABORADOR: varchar
+        DATA_ENTRADA_PROPOSTA: varchar
+        TAXA_JUROS_MENSAL: varchar
+        VALOR_PROPOSTA: varchar
+        VALOR_FINANCIAMENTO: varchar
+        VALOR_ENTRADA: varchar
+        VALOR_PRESTACAO: varchar
+        QUANTIDADE_PARCELAS: varchar
+        CARENCIA: varchar
+        STATUS_PROPOSTA: varchar
+  
+  - name: transacoes
+    config:
+      quote_columns: false
+      column_types:
+        COD_TRANSACAO: varchar
+        NUM_CONTA: varchar
+        DATA_TRANSACAO: varchar
+        NOME_TRANSACAO: varchar
+        VALOR_TRANSACAO: varchar

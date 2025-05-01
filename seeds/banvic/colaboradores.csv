@@ -1,0 +1,301 @@
+COD_COLABORADOR,PRIMEIRO_NOME,ULTIMO_NOME,EMAIL,CPF,DATA_NASCIMENTO,ENDERECO,CEP,COD_GERENTE
+1,Mirella,Martins,dda-mata@example.net,081.735.946-00,1966-02-04,"Estação de Teixeira
+Vila Madre Gertrudes 2ª Seção
+04133-564 Araújo de Pires / PE",92847600,2
+2,Lara,Santos,pteixeira@example.com,768.541.203-90,1988-06-25,"Área de Martins, 54
+Conjunto Bonsucesso
+43484658 Porto Paulista / AM",68997-717,3
+3,Luiz Henrique,Rocha,rodriguesolivia@example.net,934.210.785-05,1969-12-18,"Alameda de Fogaça, 60
+Araguaia
+33543-326 Moraes de Santos / CE",26210551,4
+4,Marcela,da Conceição,mcosta@example.com,139.467.025-70,1989-06-05,"Avenida de Campos, 513
+Tres Marias
+67624232 Correia / AM",66423556,5
+5,Alexandre,Nascimento,olivia97@example.org,719.360.824-03,1979-04-13,"Aeroporto Maria Cecília Rocha, 39
+Serra Do Curral
+08025-854 Cardoso da Praia / MA",42178150,6
+6,Juan,Barbosa,cavalcantithomas@example.org,403.527.198-50,1994-05-05,"Sítio da Rocha, 55
+Primeiro De Maio
+28360-153 da Costa do Campo / RJ",42832-180,7
+7,Arthur,Almeida,joaquim97@example.org,057.264.198-20,1984-09-15,"Viaduto de Gonçalves, 74
+São Cristóvão
+01429653 Silveira Grande / AM",34036-919,8
+8,Ana Julia,Santos,novaesjoaquim@example.com,369.805.217-21,1977-07-12,"Sítio de Costa, 35
+Vila Nova Cachoeirinha 3ª Seção
+63293-091 Costela de Nunes / PA",12336451,9
+9,Thomas,Oliveira,costabryan@example.com,308.254.197-60,1968-09-26,"Núcleo Laís Azevedo, 5
+Araguaia
+54719-411 Campos / MT",98970895,10
+10,Raul,da Conceição,monteiroelisa@example.net,185.962.374-37,1973-07-22,"Loteamento de Ramos, 606
+São Gabriel
+47376-720 Costela / PI",31750769,11
+11,Rafael,Carvalho,danielafernandes@example.org,726.153.049-25,1991-04-26,"Morro de Ferreira, 535
+Marilandia
+97024998 da Luz da Mata / PE",73390-636,12
+12,Ryan,da Conceição,giovannacavalcanti@example.net,342.506.918-70,1978-02-14,"Estação de Rezende, 33
+Vila Betânia
+65202-821 Silva / PI",59741896,13
+13,Marcela,Rocha,henriqueda-luz@example.com,503.247.891-14,1964-03-16,"Ladeira de Porto, 9
+Distrito Industrial Do Jatoba
+71922-717 Lima de Souza / SE",42103-068,14
+14,João Lucas,Santos,araujoana-vitoria@example.net,813.769.540-01,1984-11-13,"Condomínio Araújo
+Vera Cruz
+78170-346 da Paz da Serra / SE",75795-729,15
+15,Luigi,Moraes,camposgiovanna@example.org,761.038.529-86,1973-07-06,"Distrito Pinto, 107
+Vila São Francisco
+49169341 Santos de Minas / TO",41720355,16
+16,João Pedro,Rodrigues,pauloviana@example.com,785.630.924-56,1976-07-07,"Largo Rafaela Melo, 70
+Ouro Minas
+69059-793 das Neves / RJ",89639-006,17
+17,Brenda,Gomes,laragao@example.com,716.820.954-01,1984-11-02,"Vale de da Rocha, 10
+Conjunto São Francisco De Assis
+67758-550 Moraes / PR",62228145,18
+18,Isabel,Melo,costabenicio@example.org,028.631.975-68,1983-02-17,"Recanto de Ribeiro, 68
+Vila Fumec
+92500120 Viana / GO",90019993,19
+19,Enrico,Lopes,oviana@example.com,196.574.038-39,1978-11-08,"Ladeira de Teixeira, 4
+São Vicente
+74386-933 das Neves / TO",98758451,20
+20,Marcelo,Ramos,heitor34@example.org,279.438.056-74,1984-04-03,"Praia Daniela Nunes, 10
+Vila Trinta E Um De Março
+92370116 Silva Grande / AP",74002-728,21
+21,Bruno,da Paz,wmoura@example.org,534.062.971-61,1982-05-07,"Alameda de Aragão, 5
+Monte Azul
+28055-168 Jesus / SC",64363-566,22
+22,Laura,Cunha,lviana@example.org,217.583.096-95,1971-05-21,"Núcleo Costa, 60
+Vila Pinho
+23585489 da Conceição / RJ",19415-341,23
+23,Alana,Gomes,samuel76@example.com,768.134.950-20,1971-08-13,"Fazenda Emilly Costa
+Campo Alegre
+55916-800 da Cunha de Rocha / SE",88161-168,24
+24,Maitê,Correia,carlos-eduardo92@example.com,031.248.796-78,1991-02-14,"Largo de Lima, 13
+Boa União 1ª Seção
+49023-064 Rocha do Sul / PE",94709-044,25
+25,Pietra,da Mota,ianviana@example.net,452.389.017-04,1989-01-03,"Trevo Bruno Azevedo
+Engenho Nogueira
+17313-814 Porto de Goiás / RN",71636-333,26
+26,Pietra,Caldeira,gustavo-henriquecastro@example.com,725.083.916-03,1971-08-24,"Morro de Barbosa, 34
+Outro
+67244639 Barbosa de Melo / RS",60848973,27
+27,Vitória,Ramos,barbara58@example.com,814.096.532-42,1991-04-16,"Fazenda de Pinto, 27
+Pirineus
+57057184 da Paz / MS",36777-821,28
+28,Pedro Lucas,Silveira,kda-cunha@example.com,823.456.790-00,1994-01-26,"Trecho de Duarte, 903
+Leticia
+22951015 Nascimento / RR",87312248,29
+29,Theo,Peixoto,ncosta@example.net,578.310.962-21,1979-02-22,"Fazenda Peixoto, 68
+Marieta 3ª Seção
+99059-719 Porto / SE",47431-701,30
+30,Helena,Lopes,antoniomonteiro@example.org,928.706.341-96,1978-08-12,"Área Enrico Caldeira, 9
+Santa Cecilia
+37808172 Rocha da Prata / PB",48143-984,31
+31,João Gabriel,Sales,emanuella17@example.net,784.290.531-23,1975-09-22,"Viaduto Evelyn Barros, 3
+Esperança
+32106-213 Alves / AP",68318-573,32
+32,Rafael,Lima,barbara20@example.com,258.134.067-35,1992-08-02,"Rua Barros, 31
+Nossa Senhora De Fátima
+18227383 Costela de da Conceição / AL",99670827,33
+33,Nina,da Paz,marcos-vinicius15@example.com,015.248.769-76,1985-05-27,"Aeroporto Sales, 9
+Dom Cabral
+65434-712 Duarte de da Mota / SE",58132667,34
+34,Agatha,das Neves,sdas-neves@example.com,019.483.562-60,1988-11-02,"Travessa Luiz Fernando Melo, 97
+Vila Independencia 2ª Seção
+80540477 Moura da Mata / MS",44195-945,35
+35,Marcos Vinicius,da Rosa,joao-miguel07@example.org,637.041.925-70,1974-04-01,"Fazenda Eduarda Porto, 67
+Etelvina Carneiro
+39556484 da Costa Grande / ES",86752-241,36
+36,Vinicius,Campos,barbosabrenda@example.org,708.149.532-04,1964-06-27,"Lagoa Barbosa, 77
+Universo
+85582-964 Correia / PE",49172-842,37
+37,Sofia,Azevedo,olima@example.com,839.601.524-42,1979-10-08,"Lago Cavalcanti, 44
+Alípio De Melo
+79911971 da Costa das Flores / RO",81730-841,38
+38,Camila,Ribeiro,rebecada-mata@example.org,364.250.871-53,1993-08-16,"Viaduto Alves, 57
+Lagoinha Leblon
+19017833 Vieira / AP",00124512,39
+39,Antônio,Castro,zrodrigues@example.net,364.597.280-38,1995-11-12,"Conjunto Ryan Carvalho, 75
+Conjunto Califórnia Ii
+65394122 Gomes / PE",22246783,40
+40,Alícia,Viana,fogacamarcos-vinicius@example.net,704.658.329-38,1983-09-12,"Lago de Teixeira, 3
+Ernesto Nascimento
+44077-006 Jesus da Praia / BA",62996547,41
+41,Leandro,Costela,jesusgabriela@example.net,370.614.892-78,1984-06-06,"Loteamento de da Mata, 36
+Flavio De Oliveira
+18599473 Silva Alegre / GO",92652-614,42
+42,Vitor Hugo,Nunes,alicepires@example.com,249.701.836-78,1975-02-12,"Colônia da Cruz, 1
+Santa Maria
+75913-235 Farias de Teixeira / ES",95335-891,43
+43,Ana Sophia,Carvalho,psilva@example.com,268.591.047-67,1987-02-23,"Travessa Isabelly Souza, 868
+Vila Santa Monica 2ª Seção
+73034259 Lopes da Mata / AP",58533-744,44
+44,Isadora,Cunha,apires@example.org,092.831.567-30,1980-04-25,"Alameda João Costa
+Floresta
+95994401 Souza / SE",12762-736,45
+45,Clara,Correia,acostela@example.org,693.152.048-24,1978-05-27,"Setor de Viana, 67
+São João
+98839-500 Alves / AL",71461807,46
+46,Rafael,Moraes,lduarte@example.net,109.432.765-43,1995-03-18,"Lagoa Enzo Moura, 66
+Vila Madre Gertrudes 3ª Seção
+44664-118 Vieira da Prata / AL",24868-213,47
+47,Melissa,Nogueira,viniciusdas-neves@example.net,130.689.472-78,1993-06-21,"Parque Silva, 7
+Vila Petropolis
+79567620 Mendes / AC",23888851,48
+48,Lara,Rodrigues,leandrocastro@example.net,146.302.589-06,1978-10-28,"Residencial Porto, 3
+Heliopolis
+39008566 Farias da Mata / RJ",15491268,49
+49,Igor,Moraes,rramos@example.com,801.742.965-76,1995-10-25,"Fazenda Moraes, 40
+Miramar
+57387761 da Costa / MA",47761-573,50
+50,Catarina,Alves,raulda-cruz@example.com,514.097.283-23,1984-12-30,"Loteamento de Araújo, 9
+Vila Das Oliveiras
+26589090 Peixoto / RR",27317784,51
+51,Marina,Pinto,araujofelipe@example.org,654.829.013-51,1984-07-02,"Lagoa Guilherme Silva, 20
+Jaqueline
+19436792 Alves / SP",16385-324,52
+52,Maria Eduarda,Freitas,usantos@example.net,276.304.895-10,1985-05-14,"Esplanada Pires, 2
+Caetano Furquim
+45896988 da Paz de Minas / AP",46172160,53
+53,Ryan,das Neves,maria-alicerezende@example.org,320.641.859-33,1976-10-16,"Trevo de da Rocha, 457
+Santa Cecilia
+54134089 Ribeiro Grande / RS",93581-741,54
+54,Isabelly,Cunha,maria-alice02@example.net,817.564.209-20,1980-05-20,"Recanto Laís Azevedo, 83
+Santa Isabel
+03244-253 Dias / MG",94975231,55
+55,Vitor Gabriel,Carvalho,caiopires@example.net,916.437.802-04,1985-09-16,"Avenida Freitas, 478
+Xangri-Lá
+40952841 Fogaça / PE",65401082,56
+56,Rafael,Araújo,mpeixoto@example.com,342.869.701-40,1970-04-10,"Chácara Aragão, 65
+Maria Virgínia
+18865-741 Nunes da Serra / AL",18374-831,57
+57,Sabrina,Peixoto,correiasabrina@example.com,427.186.530-35,1993-05-07,"Passarela Lima
+Pindorama
+03591-505 da Cruz / AM",55833109,58
+58,Rafaela,Melo,antoniodias@example.org,056.148.732-44,1976-10-06,"Colônia Ribeiro, 52
+Jardim Guanabara
+37473-593 Caldeira / AL",96646-418,59
+59,Clara,Fogaça,das-nevesrenan@example.com,257.638.910-40,1987-10-29,"Campo Miguel da Rocha, 82
+Vila Piratininga Venda Nova
+82339080 Rodrigues / MT",41861891,60
+60,Olivia,Rezende,marianesantos@example.org,249.783.650-74,1968-05-11,"Conjunto Enrico da Rocha
+Vila Boa Vista
+41497222 Souza Paulista / AM",81136-107,61
+61,Pedro,Ferreira,luiz-miguel90@example.net,861.509.374-10,1982-08-08,"Estação de Moura, 3
+Paquetá
+92408-486 Rocha da Serra / MA",33051-047,62
+62,Vitor Gabriel,Pinto,isadoramonteiro@example.org,581.234.697-64,1978-07-01,"Largo de Viana, 38
+Campo Alegre
+94139584 Melo de Fogaça / CE",08729-393,63
+63,Pedro Lucas,Melo,maria-eduardaribeiro@example.net,056.371.892-77,1974-11-27,"Travessa Theo Pires, 23
+Centro
+93778453 das Neves Paulista / RS",37649421,64
+64,Gabrielly,Souza,da-cunhamaria-cecilia@example.org,126.054.893-70,1968-07-02,"Estrada Rafaela Duarte, 63
+Jonas Veiga
+06524-247 Nascimento / PR",04950878,65
+65,Bárbara,Jesus,dgomes@example.net,326.591.704-52,1975-12-18,"Vale Vinicius Gonçalves, 52
+Cidade Jardim Taquaril
+43057180 Ferreira / RO",15068-088,66
+66,Alexandre,Barros,salesmaria-vitoria@example.net,657.914.238-37,1982-11-23,"Recanto da Mata, 91
+Santo Agostinho
+65408-812 Almeida / SP",15117-601,67
+67,Isadora,Moura,crezende@example.com,916.852.047-67,1998-04-02,"Sítio Davi Lucas Dias
+Araguaia
+45626-130 Porto / GO",84047505,68
+68,João Miguel,Dias,luiza33@example.net,592.403.871-88,1993-03-13,"Colônia Campos, 12
+Santa Isabel
+09953236 Dias Verde / PE",78961-326,69
+69,Heloísa,Peixoto,santosleticia@example.com,294.780.561-58,1978-08-23,"Quadra de Nunes, 811
+Barão Homem De Melo 1ª Seção
+38454656 Carvalho de Goiás / MG",76335729,70
+70,Esther,Gonçalves,bsouza@example.net,437.509.216-52,1965-12-20,"Loteamento de Gonçalves, 7
+Vila São Gabriel
+92098348 da Rosa / SE",46480-056,71
+71,Evelyn,da Luz,yasmin12@example.com,621.849.357-19,1993-12-25,"Travessa de Duarte, 18
+Juliana
+88043776 da Rocha Verde / PE",39104-030,72
+72,Júlia,Farias,mnunes@example.com,874.920.136-04,1994-10-17,"Avenida Fernanda Teixeira, 83
+Marieta 1ª Seção
+52427-851 Martins / MS",47779-905,73
+73,Sarah,Silveira,lorenzo37@example.com,753.069.148-10,1971-10-16,"Loteamento de Araújo, 45
+Conjunto São Francisco De Assis
+97215561 Cardoso do Norte / RS",38887116,74
+74,Alexandre,Rodrigues,araujosamuel@example.org,426.513.890-05,1983-04-18,"Chácara Araújo, 822
+Cônego Pinheiro 2ª Seção
+98077561 Mendes do Sul / PE",82528092,75
+75,Heloísa,Barbosa,diasemanuella@example.net,938.740.126-03,1981-06-26,"Aeroporto João Lucas Nascimento
+Vila Cemig
+29655-367 Santos de Moraes / MA",29688442,76
+76,Thomas,da Mota,agathaaragao@example.org,630.942.158-15,1974-01-02,"Ladeira de da Mata, 27
+Braúnas
+15164977 Duarte / MA",40692-164,77
+77,Henrique,Rocha,da-motacaroline@example.net,214.983.570-32,1979-04-11,"Praça Renan Azevedo, 81
+Santa Monica
+89075-280 Lopes Grande / CE",99770-155,78
+78,Clara,da Conceição,zda-rosa@example.net,423.796.501-52,1981-02-09,"Chácara Alice Moreira, 37
+Maria Tereza
+90390-919 Melo da Mata / SP",36751-671,79
+79,Eduarda,Araújo,lucca28@example.net,283.047.569-00,1996-08-10,"Feira Fernandes, 885
+Chácara Leonina
+38841418 Gomes das Pedras / TO",28236796,80
+80,Bruna,Almeida,salesdiego@example.org,123.874.560-17,1976-01-06,"Esplanada de da Conceição, 242
+Mangueiras
+17069-732 Duarte / ES",60475820,81
+81,Guilherme,Pires,pda-mata@example.net,032.951.687-68,1982-10-29,"Quadra de Dias, 24
+Marieta 2ª Seção
+04775-740 Correia / SP",51734-898,82
+82,Bianca,Silva,anajesus@example.org,706.489.523-47,1966-09-05,"Vale da Costa, 17
+Ambrosina
+67880-340 da Cruz / TO",76665924,83
+83,Brenda,Costela,ocosta@example.org,394.078.615-20,1980-08-01,"Residencial Pinto, 82
+Vila Batik
+92653-336 da Rocha do Oeste / RJ",54748154,84
+84,Maria Clara,Correia,joao-miguelrezende@example.com,691.237.405-07,1985-07-13,"Favela Thiago Moura, 85
+Oeste
+77279412 Mendes / BA",81727019,85
+85,Vitor Gabriel,Sales,luana72@example.org,279.508.361-21,1985-05-01,"Rodovia Farias
+Mirante
+23244-660 Freitas / RR",62167249,86
+86,Maria Julia,Moreira,amanda67@example.net,891.506.743-66,1979-09-09,"Parque Gonçalves, 647
+Paquetá
+88014-508 Teixeira de Minas / SP",19201782,87
+87,Stella,Ferreira,julianogueira@example.com,180.625.794-76,1968-04-19,"Área de Moraes, 764
+Vila São Gabriel
+07710384 Ramos da Prata / PI",27689393,88
+88,Evelyn,Campos,lda-cunha@example.org,745.820.193-23,1969-05-06,"Viela Davi Costa
+Vila Antena
+21633-580 Castro / MS",06507901,89
+89,Leonardo,Ramos,zduarte@example.com,428.517.390-50,1990-10-25,"Área Ana Júlia Ribeiro, 26
+Vila Piratininga Venda Nova
+07251-387 Carvalho de Freitas / RN",46109-317,90
+90,Lara,da Cunha,fernandesthiago@example.net,073.942.581-14,1980-10-24,"Largo Gabrielly Costa
+São João Batista
+35709941 Cunha / AM",64788095,91
+91,Lucas Gabriel,Cardoso,ana-liviadias@example.com,702.194.568-01,1997-06-29,"Quadra Barbosa, 474
+Vila Piratininga
+04901752 Dias / RO",70492264,92
+92,Fernando,Fernandes,alexandre21@example.com,430.765.892-29,1981-05-19,"Chácara Melissa Moraes, 35
+Sport Club
+91001556 Nascimento Alegre / SC",51032234,93
+93,Catarina,Duarte,da-rosaluiz-fernando@example.com,459.820.731-05,1965-11-18,"Estação Eloah Sales
+Dom Bosco
+08583-640 Cavalcanti / PE",40912562,94
+94,Kaique,Gomes,gustavocunha@example.net,352.106.794-70,1965-05-01,"Morro de Gomes, 626
+Vila Aeroporto
+16537859 Araújo dos Dourados / SC",60201-093,95
+95,Mirella,da Costa,goncalvesmaria-vitoria@example.net,957.632.840-38,1971-10-27,"Conjunto Costela, 66
+Bacurau
+82147-805 Barbosa / MT",72561038,96
+96,Gabrielly,Gomes,melissa91@example.net,571.408.629-58,1975-09-01,"Setor Kamilly Rodrigues, 7
+Jardim América
+58142-620 Sales do Norte / SC",37897353,97
+97,Joaquim,Fogaça,nina76@example.com,573.961.248-91,1987-07-10,"Parque de Rodrigues, 29
+Silveira
+62037561 Novaes de Silveira / TO",72343-058,98
+98,Luiz Miguel,Castro,alicia50@example.com,621.307.948-31,1992-06-24,"Núcleo Cardoso, 99
+Caiçaras
+03351735 Cardoso das Flores / AP",01053-536,99
+99,Eduarda,da Rocha,pcardoso@example.com,721.849.603-22,1979-01-13,"Praia Leandro Martins
+Vila De Sá
+13060867 Porto / RR",05217057,100
+100,Rebeca,Azevedo,rlopes@example.net,125.690.487-20,1996-12-03,"Avenida Larissa Castro, 15
+Jardim Vitoria
+20076-943 Moura / AP",32781589,101
