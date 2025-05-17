@@ -7,10 +7,22 @@ models:
         description: Chave primária da conta.
       - name: fk_cliente
         description: Chave estrangeira que referencia o cliente titular da conta.
+        data_tests:
+          - relationships:
+              to: ref('dim_clientes')
+              field: pk_cliente
       - name: fk_agencia
         description: Chave estrangeira que referencia a agência onde a conta foi aberta.
+        data_tests:
+          - relationships:
+              to: ref('dim_agencias')
+              field: pk_agencia
       - name: fk_colaborador
         description: Chave estrangeira que referencia o colaborador responsável pela abertura da conta.
+        data_tests:
+          - relationships:
+              to: ref('dim_colaboradores')
+              field: pk_colaborador
       - name: saldo_total
         description: Saldo total atual da conta.
       - name: saldo_disponivel

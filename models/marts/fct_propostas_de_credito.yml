@@ -7,10 +7,22 @@ models:
         description: Chave primária da proposta de crédito.
       - name: fk_cliente
         description: Chave estrangeira que referencia o cliente associado à proposta.
+        data_tests:
+          - relationships:
+              to: ref('dim_clientes')
+              field: pk_cliente
       - name: fk_colaborador
         description: Chave estrangeira que referencia o colaborador responsável pela proposta.
+        data_tests:
+          - relationships:
+              to: ref('dim_colaboradores')
+              field: pk_colaborador
       - name: fk_agencia
         description: Chave estrangeira que referencia a agência do colaborador responsável.
+        data_tests:
+          - relationships:
+              to: ref('dim_agencias')
+              field: pk_agencia
       - name: numero_proposta
         description: Número identificador da proposta de crédito.
       - name: ts_entrada_proposta

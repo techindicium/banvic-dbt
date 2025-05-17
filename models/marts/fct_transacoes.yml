@@ -6,31 +6,31 @@ models:
         description: Chave primária da transação financeira.
       - name: fk_conta
         description: Chave estrangeira que referencia a conta onde a transação foi realizada.
-        tests:
+        data_tests:
           - relationships:
               to: ref('dim_contas')
               field: pk_conta
       - name: fk_cliente
         description: Chave estrangeira que referencia o cliente titular da conta.
-        tests:
+        data_tests:
           - relationships:
               to: ref('dim_clientes')
               field: pk_cliente
       - name: fk_agencia
         description: Chave estrangeira que referencia a agência vinculada à conta.
-        tests:
+        data_tests:
           - relationships:
               to: ref('dim_agencias')
               field: pk_agencia
       - name: fk_colaborador
         description: Chave estrangeira que referencia o colaborador responsável pela conta.
-        tests:
+        data_tests:
           - relationships:
               to: ref('dim_colaboradores')
               field: pk_colaborador
       - name: fk_data
         description: Chave estrangeira que referencia a dimensão de datas correspondente à data da transação.
-        tests:
+        data_tests:
           - relationships:
               to: ref('dim_datas')
               field: pk_data

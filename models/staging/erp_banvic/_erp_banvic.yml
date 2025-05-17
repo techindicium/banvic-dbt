@@ -2,7 +2,6 @@
 sources:
   - name: erp
     description: ERP do banco Banvic.
-    database: indicium_academy_db
     schema: erp_banvic
     tables:
       - name: agencias
