@@ -27,7 +27,7 @@ sources:
               - not_null
       - name: colaborador_agencia
         description: Tabela de relacionamento entre colaboradores e agências, indicando quais colaboradores estão associados a quais agências.
-        tests:
+        data_tests:
         - dbt_utils.unique_combination_of_columns:
             combination_of_columns:
               - cod_colaborador
