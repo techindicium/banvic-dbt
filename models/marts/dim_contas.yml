@@ -1,0 +1,13 @@
+
+models:
+  - name: dim_contas
+    description: Modelo dimensão de contas.
+    columns:
+      - name: pk_conta
+        description: Chave primária da conta.
+      - name: numero_conta
+        description: Número da conta bancária.
+      - name: tipo_conta
+        description: "Tipo da conta (ex: corrente, poupança, etc.)."
+      - name: ts_abertura_conta
+        description: Timestamp da data de abertura da conta.

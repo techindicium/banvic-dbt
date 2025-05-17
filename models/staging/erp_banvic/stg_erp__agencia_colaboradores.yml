@@ -1,0 +1,9 @@
+
+models:
+  - name: stg_erp__agencia_colaboradores
+    description: Modelo staging para relacionamento entre colaboradores e agências.
+    columns:
+      - name: fk_colaborador
+        description: Chave estrangeira que referencia o colaborador.
+      - name: fk_agencia
+        description: Chave estrangeira que referencia a agência.

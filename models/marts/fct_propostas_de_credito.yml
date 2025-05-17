@@ -1,0 +1,33 @@
+
+models:
+  - name: fct_propostas_de_credito
+    description: Fato que consolida as propostas de crédito, relacionando cliente, colaborador e agência responsável.
+    columns:
+      - name: pk_proposta
+        description: Chave primária da proposta de crédito.
+      - name: fk_cliente
+        description: Chave estrangeira que referencia o cliente associado à proposta.
+      - name: fk_colaborador
+        description: Chave estrangeira que referencia o colaborador responsável pela proposta.
+      - name: fk_agencia
+        description: Chave estrangeira que referencia a agência do colaborador responsável.
+      - name: numero_proposta
+        description: Número identificador da proposta de crédito.
+      - name: ts_entrada_proposta
+        description: Timestamp da entrada da proposta no sistema.
+      - name: taxa_juros_mensal
+        description: Taxa de juros mensal aplicada à proposta.
+      - name: valor_proposta
+        description: Valor total solicitado na proposta de crédito.
+      - name: valor_financiamento
+        description: Valor do financiamento aprovado.
+      - name: valor_entrada
+        description: Valor de entrada pago pelo cliente.
+      - name: valor_prestacao
+        description: Valor das prestações mensais.
+      - name: quantidade_parcelas
+        description: Número de parcelas previstas para o pagamento.
+      - name: carencia
+        description: Período de carência, em meses, antes do início do pagamento.
+      - name: status_proposta
+        description: "Status atual da proposta de crédito (ex: aprovada, reprovada, em análise)."

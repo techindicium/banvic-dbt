@@ -1,0 +1,25 @@
+
+models:
+  - name: stg_erp__contas
+    description: Modelo staging para os dados de contas bancárias registradas no sistema ERP.
+    columns:
+      - name: pk_conta
+        description: Chave primária da conta.
+      - name: fk_cliente
+        description: Chave estrangeira que referencia o cliente titular da conta.
+      - name: fk_agencia
+        description: Chave estrangeira que referencia a agência onde a conta foi aberta.
+      - name: fk_colaborador
+        description: Chave estrangeira que referencia o colaborador responsável pela abertura da conta.
+      - name: numero_conta
+        description: Número da conta bancária.
+      - name: tipo_conta
+        description: "Tipo da conta (ex: corrente, poupança, etc.)."
+      - name: ts_abertura_conta
+        description: Timestamp da data de abertura da conta.
+      - name: saldo_total
+        description: Saldo total atual da conta.
+      - name: saldo_disponivel
+        description: Saldo disponível para movimentação na conta.
+      - name: ts_ultimo_lancamento
+        description: Timestamp da data do último lançamento na conta.

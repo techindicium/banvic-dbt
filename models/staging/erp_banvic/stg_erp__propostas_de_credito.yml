@@ -1,0 +1,31 @@
+
+models:
+  - name: stg_erp__propostas_de_credito
+    description: Modelo staging para propostas de crédito registradas no sistema ERP.
+    columns:
+      - name: pk_proposta
+        description: Chave primária da proposta de crédito.
+      - name: fk_cliente
+        description: Chave estrangeira que referencia o cliente associado à proposta.
+      - name: fk_colaborador
+        description: Chave estrangeira que referencia o colaborador responsável pela proposta.
+      - name: numero_proposta
+        description: Número identificador da proposta de crédito.
+      - name: ts_entrada_proposta
+        description: Timestamp da entrada da proposta no sistema.
+      - name: taxa_juros_mensal
+        description: Taxa de juros mensal aplicada à proposta.
+      - name: valor_proposta
+        description: Valor total da proposta de crédito.
+      - name: valor_financiamento
+        description: Valor do financiamento aprovado.
+      - name: valor_entrada
+        description: Valor de entrada pago pelo cliente.
+      - name: valor_prestacao
+        description: Valor da prestação mensal acordada.
+      - name: quantidade_parcelas
+        description: Número total de parcelas previstas para o pagamento.
+      - name: carencia
+        description: Número de meses de carência antes do início do pagamento das parcelas.
+      - name: status_proposta
+        description: "Status atual da proposta (ex: aprovada, reprovada, em análise)."

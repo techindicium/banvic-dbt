@@ -1,0 +1,56 @@
+
+sources:
+  - name: erp
+    description: ERP do banco Banvic.
+    database: indicium_academy_db
+    schema: erp_banvic
+    tables:
+      - name: agencias
+        description: Tabela que contém informações sobre as agências, como nome, endereço, cidade, estado, tipo de agência e data de abertura.
+        columns:
+          - name: cod_agencia
+            data_tests:
+              - unique 
+              - not_null
+      - name: clientes
+        description: Tabela que armazena dados dos clientes, incluindo nome, e-mail, tipo de cliente, CPF/CNPJ, data de nascimento e endereço.
+        columns:
+          - name: cod_cliente
+            data_tests:
+              - unique 
+              - not_null
+      - name: colaboradores
+        description: Tabela que contém dados dos colaboradores, como nome, e-mail, CPF, data de nascimento e endereço.
+        columns:
+          - name: cod_colaborador
+            data_tests:
+              - unique 
+              - not_null
+      - name: colaborador_agencia
+        description: Tabela de relacionamento entre colaboradores e agências, indicando quais colaboradores estão associados a quais agências.
+        tests:
+        - dbt_utils.unique_combination_of_columns:
+            combination_of_columns:
+              - cod_colaborador
+              - cod_agencia
+      - name: contas
+        description: Tabela que registra as informações das contas bancárias dos clientes, incluindo número da conta, agência, saldo, tipo de conta e data de abertura.
+        columns:
+          - name: num_conta
+            data_tests:
+              - unique 
+              - not_null
+      - name: propostas_credito
+        description: Tabela que armazena as propostas de crédito feitas aos clientes, incluindo dados como taxa de juros, valor da proposta, valor financiado, parcelas e status da proposta.
+        columns:
+          - name: cod_proposta
+            data_tests:
+              - unique 
+              - not_null
+      - name: transacoes
+        description: Tabela que registra as transações realizadas nas contas dos clientes, incluindo tipo da transação, valor e data da transação.
+        columns:
+          - name: cod_transacao
+            data_tests:
+              - unique 
+              - not_null

@@ -1,0 +1,25 @@
+
+models:
+  - name: stg_erp__clientes
+    description: Modelo staging para os dados de clientes provenientes do sistema ERP.
+    columns:
+      - name: pk_cliente
+        description: Chave primária do cliente.
+      - name: nome_cliente
+        description: Nome completo do cliente, composto por primeiro e último nome.
+      - name: email_cliente
+        description: Endereço de e-mail do cliente.
+      - name: tipo_cliente
+        description: Tipo do cliente conforme categorização no sistema de origem.
+      - name: cpfcnpj_cliente
+        description: CPF ou CNPJ do cliente, com remoção de caracteres especiais.
+      - name: ts_inclusao
+        description: Timestamp de inclusão do cliente no sistema.
+      - name: data_nascimento_cliente
+        description: Data de nascimento do cliente.
+      - name: endereco_cliente
+        description: Endereço completo do cliente.
+      - name: cep_cliente
+        description: CEP do endereço do cliente.
+      - name: uf_cliente
+        description: Unidade federativa (UF) extraída do endereço do cliente; retorna 'Não Encontrado' se não identificado.

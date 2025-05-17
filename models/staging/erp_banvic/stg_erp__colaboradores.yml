@@ -1,0 +1,21 @@
+
+models:
+  - name: stg_erp__colaboradores
+    description: Modelo staging para os dados de colaboradores provenientes do sistema ERP.
+    columns:
+      - name: pk_colaborador
+        description: Chave primária do colaborador.
+      - name: nome_colaborador
+        description: Nome completo do colaborador, composto por primeiro e último nome.
+      - name: email_colaborador
+        description: Endereço de e-mail do colaborador.
+      - name: cpf_colaborador
+        description: CPF do colaborador, com remoção de caracteres especiais.
+      - name: data_nascimento_colaborador
+        description: Data de nascimento do colaborador.
+      - name: endereco_colaborador
+        description: Endereço completo do colaborador.
+      - name: cep_colaborador
+        description: CEP do endereço do colaborador.
+      - name: uf_colaborador
+        description: Unidade federativa (UF) extraída do endereço do colaborador; retorna 'Não Encontrado' se não identificado.

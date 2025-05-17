@@ -1,0 +1,24 @@
+
+models:
+  - name: stg_erp__transacoes
+    description: Modelo staging para transações financeiras realizadas nas contas do sistema ERP.
+    columns:
+      - name: pk_transacao
+        description: Chave primária da transação.
+      - name: fk_conta
+        description: Chave estrangeira que referencia a conta associada à transação.
+      - name: numero_transacao
+        description: Número identificador da transação.
+      - name: data_transacao
+        description: Data da transação (sem timestamp).
+      - name: ts_transacao
+        description: Timestamp completo da transação.
+      - name: nome_transacao
+        description: Nome ou descrição da transação.
+      - name: tipo_transacao
+        description: Tipo da transação, classificada como 'Crédito' ou 'Débito' com base no valor.
+        data_tests:
+          - accepted_values:
+              values: ['Crédito', 'Débito']
+      - name: valor_transacao
+        description: Valor monetário da transação.

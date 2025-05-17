@@ -1,0 +1,48 @@
+models:
+  - name: fct_transacoes
+    description: Fato que consolida as transações financeiras realizadas em contas, enriquecida com informações de cliente, agência, colaborador e data.
+    columns:
+      - name: pk_transacao
+        description: Chave primária da transação financeira.
+      - name: fk_conta
+        description: Chave estrangeira que referencia a conta onde a transação foi realizada.
+        tests:
+          - relationships:
+              to: ref('dim_contas')
+              field: pk_conta
+      - name: fk_cliente
+        description: Chave estrangeira que referencia o cliente titular da conta.
+        tests:
+          - relationships:
+              to: ref('dim_clientes')
+              field: pk_cliente
+      - name: fk_agencia
+        description: Chave estrangeira que referencia a agência vinculada à conta.
+        tests:
+          - relationships:
+              to: ref('dim_agencias')
+              field: pk_agencia
+      - name: fk_colaborador
+        description: Chave estrangeira que referencia o colaborador responsável pela conta.
+        tests:
+          - relationships:
+              to: ref('dim_colaboradores')
+              field: pk_colaborador
+      - name: fk_data
+        description: Chave estrangeira que referencia a dimensão de datas correspondente à data da transação.
+        tests:
+          - relationships:
+              to: ref('dim_datas')
+              field: pk_data
+      - name: numero_transacao
+        description: Número identificador da transação.
+      - name: data_transacao
+        description: Data da transação (sem timestamp).
+      - name: ts_transacao
+        description: Timestamp completo da transação.
+      - name: nome_transacao
+        description: Nome ou descrição da transação.
+      - name: tipo_trasacao
+        description: Tipo da transação, classificada como 'Crédito' ou 'Débito'.
+      - name: valor_transacao
+        description: Valor monetário da transação.
