@@ -1,0 +1,1025 @@
+COD_LOCALICADE,CIDADE,UF
+1,Aragão,AC
+2,Barbosa,AC
+3,Barbosa Paulista,AC
+4,Cardoso,AC
+5,Castro do Campo,AC
+6,Costela,AC
+7,Costela de Castro,AC
+8,da Conceição,AC
+9,da Luz,AC
+10,da Rosa,AC
+11,das Neves,AC
+12,Gonçalves da Prata,AC
+13,Jesus da Prata,AC
+14,Mendes,AC
+15,Monteiro,AC
+16,Novaes da Prata,AC
+17,Novaes de Cardoso,AC
+18,Peixoto,AC
+19,Pinto,AC
+20,Ramos,AC
+21,Rezende da Prata,AC
+22,Rocha,AC
+23,Souza,AC
+24,Teixeira do Galho,AC
+25,Viana,AC
+26,Vieira,AC
+27,Alves,AL
+28,Aragão,AL
+29,Aragão do Campo,AL
+30,Aragão Grande,AL
+31,Araújo,AL
+32,Barbosa das Pedras,AL
+33,Barros,AL
+34,Caldeira,AL
+35,Cardoso,AL
+36,Cardoso do Norte,AL
+37,Castro da Prata,AL
+38,Costa,AL
+39,Costela,AL
+40,Costela de da Conceição,AL
+41,da Conceição do Amparo,AL
+42,da Costa da Praia,AL
+43,da Cunha,AL
+44,da Mota da Mata,AL
+45,da Rocha Paulista,AL
+46,Dias,AL
+47,Dias de Alves,AL
+48,Dias de Caldeira,AL
+49,Duarte,AL
+50,Fernandes,AL
+51,Ferreira,AL
+52,Fogaça Alegre,AL
+53,Freitas,AL
+54,Gonçalves,AL
+55,Gonçalves de Dias,AL
+56,Jesus,AL
+57,Lima,AL
+58,Lopes,AL
+59,Martins do Amparo,AL
+60,Melo da Praia,AL
+61,Moreira Alegre,AL
+62,Moura,AL
+63,Moura de Gonçalves,AL
+64,Nascimento,AL
+65,Nascimento de Peixoto,AL
+66,Novaes,AL
+67,Novaes de Mendes,AL
+68,Nunes da Serra,AL
+69,Oliveira,AL
+70,Pereira Paulista,AL
+71,Pinto,AL
+72,Pires da Serra,AL
+73,Ramos Paulista,AL
+74,Ribeiro,AL
+75,Ribeiro das Flores,AL
+76,Rodrigues,AL
+77,Rodrigues Grande,AL
+78,Silveira de Farias,AL
+79,Silveira Grande,AL
+80,Teixeira de da Mata,AL
+81,Teixeira Paulista,AL
+82,Vieira da Prata,AL
+83,Alves,AM
+84,Aragão do Galho,AM
+85,Araújo,AM
+86,Caldeira,AM
+87,Cardoso,AM
+88,Cardoso de da Rosa,AM
+89,Correia,AM
+90,Costa,AM
+91,Cunha,AM
+92,da Costa,AM
+93,da Cruz,AM
+94,da Cunha Grande,AM
+95,da Luz dos Dourados,AM
+96,da Mata do Amparo,AM
+97,da Mota,AM
+98,da Mota da Mata,AM
+99,da Mota de Minas,AM
+100,das Neves,AM
+101,Dias,AM
+102,Farias,AM
+103,Farias do Norte,AM
+104,Farias dos Dourados,AM
+105,Gonçalves do Galho,AM
+106,Martins do Galho,AM
+107,Mendes de Minas,AM
+108,Mendes de Peixoto,AM
+109,Monteiro,AM
+110,Moreira,AM
+111,Novaes,AM
+112,Peixoto,AM
+113,Peixoto Paulista,AM
+114,Pereira,AM
+115,Pinto Grande,AM
+116,Porto Paulista,AM
+117,Rezende,AM
+118,Rezende da Mata,AM
+119,Rezende da Praia,AM
+120,Rocha,AM
+121,Sales de Minas,AM
+122,Sales do Sul,AM
+123,Santos dos Dourados,AM
+124,Silva,AM
+125,Silveira,AM
+126,Silveira Grande,AM
+127,Souza Paulista,AM
+128,Teixeira,AM
+129,Almeida,AP
+130,Alves,AP
+131,Aragão Paulista,AP
+132,Araújo de Barbosa,AP
+133,Barbosa,AP
+134,Cardoso das Flores,AP
+135,Castro da Serra,AP
+136,Correia de Minas,AP
+137,da Mota de Minas,AP
+138,da Paz,AP
+139,da Paz de Minas,AP
+140,das Neves do Amparo,AP
+141,Dias,AP
+142,Dias do Oeste,AP
+143,Fernandes,AP
+144,Fernandes da Serra,AP
+145,Ferreira,AP
+146,Lopes da Mata,AP
+147,Mendes,AP
+148,Moraes Alegre,AP
+149,Moura,AP
+150,Nascimento do Norte,AP
+151,Nogueira do Oeste,AP
+152,Pinto do Amparo,AP
+153,Pinto Paulista,AP
+154,Pires de Minas,AP
+155,Rezende de Araújo,AP
+156,Ribeiro de Minas,AP
+157,Rocha de Aragão,AP
+158,Sales Grande,AP
+159,Silva Grande,AP
+160,Vieira,AP
+161,Almeida Verde,BA
+162,Alves de Aragão,BA
+163,Azevedo do Campo,BA
+164,Barbosa do Sul,BA
+165,Barros,BA
+166,Campos,BA
+167,Cardoso do Campo,BA
+168,Costa,BA
+169,Costela,BA
+170,da Cunha,BA
+171,da Luz Alegre,BA
+172,da Mata,BA
+173,das Neves Paulista,BA
+174,Duarte,BA
+175,Farias,BA
+176,Ferreira,BA
+177,Fogaça,BA
+178,Freitas,BA
+179,Gomes de Moraes,BA
+180,Jesus da Praia,BA
+181,Lima,BA
+182,Melo,BA
+183,Mendes,BA
+184,Mendes da Praia,BA
+185,Monteiro,BA
+186,Monteiro das Pedras,BA
+187,Monteiro de Alves,BA
+188,Moreira,BA
+189,Moura da Mata,BA
+190,Nascimento do Sul,BA
+191,Nunes,BA
+192,Nunes das Flores,BA
+193,Peixoto,BA
+194,Souza,BA
+195,Teixeira,BA
+196,Alves Verde,CE
+197,Aragão Alegre,CE
+198,Barros,CE
+199,Barros da Serra,CE
+200,Cardoso Grande,CE
+201,Castro,CE
+202,Castro do Campo,CE
+203,Cavalcanti,CE
+204,Costa,CE
+205,Costela,CE
+206,Costela do Oeste,CE
+207,da Cruz,CE
+208,da Luz de da Rocha,CE
+209,da Mata da Serra,CE
+210,da Rocha,CE
+211,da Rocha dos Dourados,CE
+212,da Rosa do Campo,CE
+213,Farias,CE
+214,Fernandes da Praia,CE
+215,Freitas,CE
+216,Gomes de Goiás,CE
+217,Gonçalves,CE
+218,Lima Paulista,CE
+219,Lopes de da Costa,CE
+220,Lopes Grande,CE
+221,Melo,CE
+222,Melo de Fogaça,CE
+223,Moraes de Santos,CE
+224,Moreira Paulista,CE
+225,Moura de Santos,CE
+226,Nascimento,CE
+227,Nogueira,CE
+228,Nunes,CE
+229,Peixoto de Barros,CE
+230,Peixoto dos Dourados,CE
+231,Pinto do Norte,CE
+232,Porto Alegre,CE
+233,Rezende,CE
+234,Rezende da Mata,CE
+235,Rocha,CE
+236,Rodrigues,CE
+237,Sales,CE
+238,Sales das Pedras,CE
+239,Santos,CE
+240,Santos da Mata,CE
+241,Silveira,CE
+242,Silveira do Sul,CE
+243,Alves,DF
+244,Alves dos Dourados,DF
+245,Caldeira,DF
+246,Caldeira Verde,DF
+247,Cardoso,DF
+248,Carvalho Verde,DF
+249,Correia das Flores,DF
+250,Costela,DF
+251,Costela das Flores,DF
+252,Cunha da Serra,DF
+253,da Luz da Mata,DF
+254,da Mata,DF
+255,da Paz,DF
+256,da Paz Alegre,DF
+257,da Rosa Verde,DF
+258,das Neves da Praia,DF
+259,Duarte da Serra,DF
+260,Fernandes Grande,DF
+261,Ferreira,DF
+262,Ferreira do Sul,DF
+263,Fogaça,DF
+264,Gomes,DF
+265,Jesus,DF
+266,Lopes do Sul,DF
+267,Martins,DF
+268,Monteiro,DF
+269,Moreira,DF
+270,Moreira das Pedras,DF
+271,Nunes,DF
+272,Porto Alegre,DF
+273,Rocha da Praia,DF
+274,Rocha de Peixoto,DF
+275,Sales,DF
+276,Silva,DF
+277,Silveira,DF
+278,Souza de Nunes,DF
+279,Alves do Oeste,ES
+280,Araújo,ES
+281,Azevedo,ES
+282,Barros,ES
+283,Caldeira do Amparo,ES
+284,Cardoso Grande,ES
+285,Correia de Jesus,ES
+286,Costa,ES
+287,Cunha,ES
+288,da Costa,ES
+289,da Costa Grande,ES
+290,da Paz,ES
+291,da Paz da Praia,ES
+292,da Paz de Silveira,ES
+293,das Neves,ES
+294,Dias das Flores,ES
+295,Dias do Oeste,ES
+296,Duarte,ES
+297,Farias de Teixeira,ES
+298,Fernandes do Amparo,ES
+299,Ferreira,ES
+300,Ferreira Alegre,ES
+301,Freitas do Sul,ES
+302,Gomes do Norte,ES
+303,Jesus de Araújo,ES
+304,Mendes das Pedras,ES
+305,Monteiro,ES
+306,Monteiro de Monteiro,ES
+307,Moreira do Oeste,ES
+308,Novaes,ES
+309,Pinto da Serra,ES
+310,Pires,ES
+311,Ribeiro,ES
+312,Rocha das Pedras,ES
+313,Rodrigues de da Paz,ES
+314,Sales de Jesus,ES
+315,Souza da Praia,ES
+316,Vieira,ES
+317,Aragão de da Cunha,GO
+318,Aragão de da Rosa,GO
+319,Azevedo,GO
+320,Barbosa,GO
+321,Campos,GO
+322,Campos Grande,GO
+323,Cardoso Verde,GO
+324,Cavalcanti da Mata,GO
+325,Costa,GO
+326,da Mata dos Dourados,GO
+327,da Mota,GO
+328,Dias,GO
+329,Fernandes do Amparo,GO
+330,Ferreira,GO
+331,Fogaça,GO
+332,Fogaça do Galho,GO
+333,Lopes,GO
+334,Melo,GO
+335,Mendes,GO
+336,Mendes Alegre,GO
+337,Mendes de Monteiro,GO
+338,Monteiro,GO
+339,Moraes,GO
+340,Moura,GO
+341,Nunes,GO
+342,Peixoto,GO
+343,Pires de Silveira,GO
+344,Porto,GO
+345,Porto do Oeste,GO
+346,Rocha,GO
+347,Santos do Sul,GO
+348,Silva Alegre,GO
+349,Silva da Prata,GO
+350,Silveira dos Dourados,GO
+351,Viana,GO
+352,Vieira,GO
+353,Vieira Verde,GO
+354,Almeida,MA
+355,Barros,MA
+356,Campos,MA
+357,Cardoso da Praia,MA
+358,Costa,MA
+359,Cunha de Silva,MA
+360,da Costa,MA
+361,da Luz das Flores,MA
+362,da Luz do Campo,MA
+363,da Mata,MA
+364,da Paz,MA
+365,da Paz Paulista,MA
+366,da Rocha,MA
+367,Duarte,MA
+368,Freitas da Prata,MA
+369,Lopes do Norte,MA
+370,Melo,MA
+371,Monteiro Paulista,MA
+372,Moura,MA
+373,Moura do Sul,MA
+374,Nascimento,MA
+375,Nunes,MA
+376,Nunes do Amparo,MA
+377,Peixoto,MA
+378,Peixoto de Campos,MA
+379,Pereira da Praia,MA
+380,Pereira do Campo,MA
+381,Pires,MA
+382,Porto,MA
+383,Rezende,MA
+384,Rezende de Teixeira,MA
+385,Rocha,MA
+386,Rocha da Serra,MA
+387,Rodrigues,MA
+388,Santos de Moraes,MA
+389,Teixeira,MA
+390,Barros,MG
+391,Cardoso,MG
+392,Carvalho de Goiás,MG
+393,Castro do Campo,MG
+394,Costa de Azevedo,MG
+395,da Costa,MG
+396,da Luz da Serra,MG
+397,da Mata,MG
+398,da Mata do Sul,MG
+399,da Mota,MG
+400,da Rocha do Oeste,MG
+401,da Rosa,MG
+402,das Neves,MG
+403,das Neves Alegre,MG
+404,Dias,MG
+405,Dias de Nunes,MG
+406,Duarte,MG
+407,Fogaça,MG
+408,Fogaça do Amparo,MG
+409,Freitas,MG
+410,Lopes,MG
+411,Martins,MG
+412,Moraes do Amparo,MG
+413,Moura de Santos,MG
+414,Nogueira de Goiás,MG
+415,Nunes de Cunha,MG
+416,Oliveira das Pedras,MG
+417,Peixoto,MG
+418,Pinto,MG
+419,Pires dos Dourados,MG
+420,Rocha,MG
+421,Rocha Paulista,MG
+422,Souza do Norte,MG
+423,Almeida,MS
+424,Araújo,MS
+425,Barbosa,MS
+426,Barros da Prata,MS
+427,Campos de Melo,MS
+428,Castro,MS
+429,Cavalcanti,MS
+430,Correia Paulista,MS
+431,da Costa,MS
+432,da Costa de Nogueira,MS
+433,da Cruz,MS
+434,da Mata Verde,MS
+435,da Mota de Minas,MS
+436,da Paz,MS
+437,das Neves,MS
+438,das Neves do Campo,MS
+439,Dias de Novaes,MS
+440,Farias,MS
+441,Farias Grande,MS
+442,Ferreira,MS
+443,Fogaça do Amparo,MS
+444,Freitas,MS
+445,Lima,MS
+446,Lopes,MS
+447,Lopes de da Conceição,MS
+448,Lopes de Minas,MS
+449,Martins,MS
+450,Martins de Aragão,MS
+451,Mendes,MS
+452,Monteiro,MS
+453,Moura da Mata,MS
+454,Nogueira,MS
+455,Oliveira,MS
+456,Peixoto de Minas,MS
+457,Pereira da Serra,MS
+458,Pires,MS
+459,Ribeiro da Praia,MS
+460,Rodrigues,MS
+461,Rodrigues do Galho,MS
+462,Sales,MS
+463,Almeida,MT
+464,Araújo,MT
+465,Araújo do Norte,MT
+466,Azevedo,MT
+467,Barbosa,MT
+468,Barros,MT
+469,Campos,MT
+470,Cardoso de Fogaça,MT
+471,Carvalho de Viana,MT
+472,da Conceição de Fernandes,MT
+473,da Conceição Verde,MT
+474,da Cruz,MT
+475,da Cruz de da Cunha,MT
+476,da Cruz do Sul,MT
+477,da Cunha,MT
+478,da Mata de Goiás,MT
+479,da Paz,MT
+480,da Paz do Sul,MT
+481,da Rosa,MT
+482,Dias,MT
+483,Dias das Flores,MT
+484,Duarte,MT
+485,Farias,MT
+486,Fogaça,MT
+487,Freitas,MT
+488,Freitas de Aragão,MT
+489,Gomes,MT
+490,Gomes da Praia,MT
+491,Jesus de Barbosa,MT
+492,Monteiro,MT
+493,Moraes de Minas,MT
+494,Moraes Grande,MT
+495,Moura,MT
+496,Nogueira de Minas,MT
+497,Pires,MT
+498,Pires Grande,MT
+499,Porto de Mendes,MT
+500,Rezende,MT
+501,Rezende de Minas,MT
+502,Rodrigues,MT
+503,Vieira,MT
+504,Almeida,PA
+505,Aragão,PA
+506,Aragão do Sul,PA
+507,Azevedo,PA
+508,Barros,PA
+509,Caldeira,PA
+510,Caldeira de Minas,PA
+511,Campos da Prata,PA
+512,Cardoso de Castro,PA
+513,Costa,PA
+514,Costela de Nunes,PA
+515,da Mata dos Dourados,PA
+516,da Paz Verde,PA
+517,da Rocha de Minas,PA
+518,Freitas,PA
+519,Freitas de Nogueira,PA
+520,Gomes,PA
+521,Mendes,PA
+522,Mendes Alegre,PA
+523,Moura da Praia,PA
+524,Nascimento,PA
+525,Nascimento do Campo,PA
+526,Pereira do Oeste,PA
+527,Pinto do Oeste,PA
+528,Ribeiro,PA
+529,Ribeiro de Goiás,PA
+530,Rocha de Lopes,PA
+531,Rodrigues,PA
+532,Silva,PA
+533,Silva da Praia,PA
+534,Souza,PA
+535,Viana,PA
+536,Vieira,PA
+537,Almeida,PB
+538,Almeida da Mata,PB
+539,Aragão das Flores,PB
+540,Araújo,PB
+541,Campos das Flores,PB
+542,Cardoso,PB
+543,da Conceição da Praia,PB
+544,da Conceição de Dias,PB
+545,da Luz,PB
+546,da Luz de Goiás,PB
+547,da Mata Alegre,PB
+548,Ferreira da Prata,PB
+549,Jesus de das Neves,PB
+550,Martins do Oeste,PB
+551,Martins dos Dourados,PB
+552,Moraes,PB
+553,Moreira,PB
+554,Moura,PB
+555,Novaes,PB
+556,Pinto,PB
+557,Pires,PB
+558,Rocha da Prata,PB
+559,Sales Verde,PB
+560,Santos de Minas,PB
+561,Silva,PB
+562,Silveira da Mata,PB
+563,Teixeira,PB
+564,Teixeira do Amparo,PB
+565,Vieira de Minas,PB
+566,Almeida,PE
+567,Aragão,PE
+568,Araújo de Pires,PE
+569,Cavalcanti,PE
+570,Cavalcanti de Campos,PE
+571,Correia,PE
+572,Costa das Flores,PE
+573,Costela,PE
+574,da Conceição,PE
+575,da Luz da Mata,PE
+576,da Luz de Cunha,PE
+577,da Mata,PE
+578,da Mata de Farias,PE
+579,da Paz de Goiás,PE
+580,da Rocha Verde,PE
+581,da Rosa,PE
+582,Dias,PE
+583,Dias das Flores,PE
+584,Dias Verde,PE
+585,Duarte do Campo,PE
+586,Farias,PE
+587,Farias da Mata,PE
+588,Fogaça,PE
+589,Freitas,PE
+590,Gomes,PE
+591,Gonçalves,PE
+592,Gonçalves de Minas,PE
+593,Lopes Verde,PE
+594,Melo de Goiás,PE
+595,Mendes Alegre,PE
+596,Mendes do Sul,PE
+597,Moura das Pedras,PE
+598,Nogueira Paulista,PE
+599,Recife,PE
+600,Ribeiro,PE
+601,Rocha do Sul,PE
+602,Santos da Prata,PE
+603,Silva,PE
+604,Teixeira,PE
+605,Vieira das Flores,PE
+606,Araújo,PI
+607,Araújo de Goiás,PI
+608,Araújo de Viana,PI
+609,Caldeira do Sul,PI
+610,Campos,PI
+611,Castro,PI
+612,Cavalcanti da Mata,PI
+613,Cavalcanti de Ribeiro,PI
+614,Costela,PI
+615,Cunha de Silva,PI
+616,da Conceição,PI
+617,da Mota das Pedras,PI
+618,da Paz da Praia,PI
+619,da Paz do Amparo,PI
+620,da Rosa de Costela,PI
+621,Farias Grande,PI
+622,Fogaça da Prata,PI
+623,Jesus,PI
+624,Jesus da Mata,PI
+625,Nascimento,PI
+626,Novaes,PI
+627,Oliveira,PI
+628,Pinto,PI
+629,Pinto das Flores,PI
+630,Ramos da Prata,PI
+631,Rezende,PI
+632,Rocha do Amparo,PI
+633,Rodrigues,PI
+634,Rodrigues do Amparo,PI
+635,Silva,PI
+636,Viana,PI
+637,Alves Paulista,PR
+638,Aragão,PR
+639,Araújo Paulista,PR
+640,Cardoso,PR
+641,Costela,PR
+642,da Conceição,PR
+643,da Cruz,PR
+644,da Cruz do Sul,PR
+645,da Cunha,PR
+646,da Mata do Sul,PR
+647,da Paz da Praia,PR
+648,da Rocha,PR
+649,da Rosa dos Dourados,PR
+650,das Neves da Serra,PR
+651,Dias,PR
+652,Fernandes,PR
+653,Ferreira,PR
+654,Gomes de Minas,PR
+655,Jesus,PR
+656,Moraes,PR
+657,Moura,PR
+658,Nascimento,PR
+659,Nogueira das Flores,PR
+660,Nunes do Amparo,PR
+661,Ramos da Mata,PR
+662,Rocha,PR
+663,Silva do Galho,PR
+664,Silveira de Viana,PR
+665,Souza do Amparo,PR
+666,Viana Paulista,PR
+667,Alves,RJ
+668,Aragão,RJ
+669,Aragão das Pedras,RJ
+670,Caldeira de Castro,RJ
+671,Campos Paulista,RJ
+672,Campos Verde,RJ
+673,Castro,RJ
+674,Costela de Farias,RJ
+675,da Conceição,RJ
+676,da Costa do Campo,RJ
+677,da Mata,RJ
+678,da Mata de Mendes,RJ
+679,da Rocha do Oeste,RJ
+680,da Rosa,RJ
+681,das Neves,RJ
+682,Duarte das Pedras,RJ
+683,Farias,RJ
+684,Farias da Mata,RJ
+685,Fernandes,RJ
+686,Fernandes da Mata,RJ
+687,Freitas,RJ
+688,Lima,RJ
+689,Mendes,RJ
+690,Mendes Alegre,RJ
+691,Moraes,RJ
+692,Moreira,RJ
+693,Nogueira de da Mata,RJ
+694,Novaes de Moraes,RJ
+695,Pereira,RJ
+696,Pinto,RJ
+697,Pinto do Campo,RJ
+698,Pires da Praia,RJ
+699,Ramos,RJ
+700,Rio de Janeiro,RJ
+701,Silveira de Mendes,RJ
+702,Silveira do Galho,RJ
+703,Alves,RN
+704,Araújo Grande,RN
+705,Azevedo,RN
+706,Azevedo de Sales,RN
+707,Barbosa,RN
+708,Barbosa do Oeste,RN
+709,Barros de Barros,RN
+710,Caldeira,RN
+711,Campos,RN
+712,Cardoso,RN
+713,Carvalho de Freitas,RN
+714,Carvalho de Monteiro,RN
+715,Cavalcanti,RN
+716,Costa,RN
+717,da Conceição,RN
+718,da Luz,RN
+719,da Luz do Oeste,RN
+720,da Mata,RN
+721,da Mata de Araújo,RN
+722,da Paz de Porto,RN
+723,da Rosa do Oeste,RN
+724,da Rosa dos Dourados,RN
+725,das Neves Grande,RN
+726,Duarte,RN
+727,Farias da Serra,RN
+728,Farias de Minas,RN
+729,Fernandes de Teixeira,RN
+730,Fogaça,RN
+731,Freitas,RN
+732,Jesus Verde,RN
+733,Martins Grande,RN
+734,Moraes,RN
+735,Nascimento,RN
+736,Nogueira do Galho,RN
+737,Oliveira,RN
+738,Peixoto de da Cruz,RN
+739,Pereira,RN
+740,Pinto de Rezende,RN
+741,Porto,RN
+742,Porto das Pedras,RN
+743,Porto de Goiás,RN
+744,Porto Verde,RN
+745,Ramos de da Paz,RN
+746,Rodrigues,RN
+747,Silva,RN
+748,Souza,RN
+749,Teixeira do Campo,RN
+750,Teixeira do Galho,RN
+751,Viana,RN
+752,Aragão do Galho,RO
+753,Araújo,RO
+754,Barros da Prata,RO
+755,Cardoso,RO
+756,Carvalho das Flores,RO
+757,Castro,RO
+758,Cunha,RO
+759,da Conceição,RO
+760,da Costa das Flores,RO
+761,da Cruz,RO
+762,da Cunha,RO
+763,da Rocha,RO
+764,das Neves,RO
+765,das Neves das Flores,RO
+766,Dias,RO
+767,Farias,RO
+768,Ferreira,RO
+769,Gomes de Goiás,RO
+770,Jesus,RO
+771,Lopes,RO
+772,Mendes de Ribeiro,RO
+773,Monteiro de Costa,RO
+774,Moura do Galho,RO
+775,Nogueira,RO
+776,Novaes de Minas,RO
+777,Novaes Paulista,RO
+778,Pinto,RO
+779,Pires,RO
+780,Ramos,RO
+781,Ramos do Amparo,RO
+782,Rocha de Nogueira,RO
+783,Sales,RO
+784,Souza,RO
+785,Viana,RO
+786,Almeida Verde,RR
+787,Araújo,RR
+788,Barbosa,RR
+789,Barros do Campo,RR
+790,Barros Verde,RR
+791,Cardoso do Norte,RR
+792,Castro,RR
+793,Costa,RR
+794,da Costa,RR
+795,da Cruz de Goiás,RR
+796,da Rosa,RR
+797,Dias,RR
+798,Duarte,RR
+799,Farias,RR
+800,Fogaça,RR
+801,Freitas,RR
+802,Gomes,RR
+803,Melo,RR
+804,Mendes,RR
+805,Mendes da Praia,RR
+806,Monteiro,RR
+807,Moreira Grande,RR
+808,Moura,RR
+809,Nascimento,RR
+810,Oliveira,RR
+811,Peixoto,RR
+812,Peixoto dos Dourados,RR
+813,Pereira,RR
+814,Pereira do Oeste,RR
+815,Pinto,RR
+816,Pinto de Rezende,RR
+817,Pires do Campo,RR
+818,Porto,RR
+819,Ramos Grande,RR
+820,Rezende do Galho,RR
+821,Rezende Verde,RR
+822,Rocha,RR
+823,Rocha de Sales,RR
+824,Santos,RR
+825,Silva Grande,RR
+826,Teixeira,RR
+827,Viana,RR
+828,Vieira,RR
+829,Almeida da Mata,RS
+830,Almeida de Martins,RS
+831,Araújo,RS
+832,Araújo do Sul,RS
+833,Barbosa de Melo,RS
+834,Barros de Cunha,RS
+835,Barros de Ferreira,RS
+836,Cardoso,RS
+837,Cardoso do Norte,RS
+838,Costela da Prata,RS
+839,Cunha,RS
+840,Cunha do Galho,RS
+841,da Cunha de Goiás,RS
+842,da Mata,RS
+843,da Mota,RS
+844,da Mota de Jesus,RS
+845,da Paz,RS
+846,das Neves Paulista,RS
+847,Dias dos Dourados,RS
+848,Duarte Alegre,RS
+849,Ferreira,RS
+850,Freitas Grande,RS
+851,Gonçalves,RS
+852,Gonçalves Alegre,RS
+853,Melo,RS
+854,Mendes,RS
+855,Monteiro,RS
+856,Novaes,RS
+857,Novaes do Sul,RS
+858,Peixoto dos Dourados,RS
+859,Pinto da Praia,RS
+860,Porto Alegre,RS
+861,Ramos,RS
+862,Ramos de Minas,RS
+863,Ribeiro,RS
+864,Ribeiro Grande,RS
+865,Sales,RS
+866,Silva de da Mata,RS
+867,Silveira,RS
+868,Silveira da Mata,RS
+869,Souza do Campo,RS
+870,Teixeira,RS
+871,Araújo dos Dourados,SC
+872,Azevedo Alegre,SC
+873,Caldeira,SC
+874,Cardoso,SC
+875,Costela da Prata,SC
+876,da Costa,SC
+877,da Mata do Norte,SC
+878,da Mota,SC
+879,da Paz,SC
+880,Duarte,SC
+881,Farias da Mata,SC
+882,Fernandes Grande,SC
+883,Florianópolis,SC
+884,Gonçalves,SC
+885,Jesus,SC
+886,Lopes,SC
+887,Martins,SC
+888,Melo da Prata,SC
+889,Mendes,SC
+890,Mendes da Prata,SC
+891,Moreira de Ribeiro,SC
+892,Nascimento Alegre,SC
+893,Nunes de Fernandes,SC
+894,Pereira,SC
+895,Sales de Lima,SC
+896,Sales do Norte,SC
+897,Santos Verde,SC
+898,Silva,SC
+899,Silveira,SC
+900,Barbosa do Norte,SE
+901,Barros Grande,SE
+902,Cardoso de Azevedo,SE
+903,Cardoso de da Costa,SE
+904,Carvalho de Moraes,SE
+905,Costa da Prata,SE
+906,da Cunha,SE
+907,da Cunha de Rocha,SE
+908,da Mota das Pedras,SE
+909,da Paz da Serra,SE
+910,da Rosa,SE
+911,da Rosa de da Luz,SE
+912,Duarte de da Mota,SE
+913,Ferreira,SE
+914,Freitas da Mata,SE
+915,Gomes,SE
+916,Jesus,SE
+917,Lima de Souza,SE
+918,Monteiro,SE
+919,Moreira do Sul,SE
+920,Nogueira,SE
+921,Novaes de da Rocha,SE
+922,Nunes de Cardoso,SE
+923,Peixoto,SE
+924,Pires de Barros,SE
+925,Porto,SE
+926,Rezende,SE
+927,Rocha,SE
+928,Rodrigues de Ramos,SE
+929,Sales de Pires,SE
+930,Silva,SE
+931,Souza,SE
+932,Viana da Mata,SE
+933,Vieira,SE
+934,Almeida,SP
+935,Alves,SP
+936,Aragão,SP
+937,Azevedo do Norte,SP
+938,Azevedo Grande,SP
+939,Barros,SP
+940,Caldeira,SP
+941,Campinas,SP
+942,Castro,SP
+943,Cavalcanti,SP
+944,Correia,SP
+945,Correia de da Costa,SP
+946,Costela das Pedras,SP
+947,Cunha,SP
+948,Cunha do Amparo,SP
+949,Cunha do Oeste,SP
+950,da Costa da Serra,SP
+951,da Mata do Norte,SP
+952,da Rocha das Flores,SP
+953,da Rosa,SP
+954,das Neves,SP
+955,das Neves do Galho,SP
+956,Farias,SP
+957,Fernandes,SP
+958,Lopes,SP
+959,Melo da Mata,SP
+960,Melo de Silveira,SP
+961,Mendes,SP
+962,Monteiro,SP
+963,Moraes da Mata,SP
+964,Moreira,SP
+965,Nunes,SP
+966,Osasco,SP
+967,Pereira,SP
+968,Porto,SP
+969,Ramos,SP
+970,Ribeiro,SP
+971,Santos,SP
+972,Santos do Amparo,SP
+973,São Paulo,SP
+974,Silveira,SP
+975,Silveira dos Dourados,SP
+976,Teixeira de Minas,SP
+977,Viana das Flores,SP
+978,Vieira de Minas,SP
+979,Almeida,TO
+980,Aragão,TO
+981,Araújo,TO
+982,Araújo de Teixeira,TO
+983,Araújo do Sul,TO
+984,Azevedo,TO
+985,Azevedo do Sul,TO
+986,Caldeira,TO
+987,Caldeira de das Neves,TO
+988,Caldeira de Moreira,TO
+989,Caldeira do Sul,TO
+990,Cardoso Paulista,TO
+991,Carvalho,TO
+992,Castro de Barros,TO
+993,Cavalcanti,TO
+994,Costa,TO
+995,da Costa da Serra,TO
+996,da Cruz,TO
+997,da Cruz do Amparo,TO
+998,da Luz de Souza,TO
+999,da Luz do Sul,TO
+1000,da Luz Paulista,TO
+1001,da Mata de Pereira,TO
+1002,da Mata do Sul,TO
+1003,da Paz do Campo,TO
+1004,das Neves,TO
+1005,Ferreira,TO
+1006,Gomes das Pedras,TO
+1007,Gomes de da Rocha,TO
+1008,Gonçalves,TO
+1009,Gonçalves de Moraes,TO
+1010,Lima Paulista,TO
+1011,Martins da Mata,TO
+1012,Monteiro,TO
+1013,Moreira de Costela,TO
+1014,Nascimento da Serra,TO
+1015,Nogueira,TO
+1016,Nogueira do Amparo,TO
+1017,Novaes de Silveira,TO
+1018,Oliveira do Sul,TO
+1019,Porto do Norte,TO
+1020,Rocha,TO
+1021,Sales,TO
+1022,Santos de Minas,TO
+1023,Silva dos Dourados,TO
+1024,Silveira do Oeste,TO

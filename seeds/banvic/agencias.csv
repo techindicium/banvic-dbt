@@ -1,11 +1,11 @@
-COD_AGENCIA,NOME,ENDERECO,CIDADE,UF,DATA_ABERTURA,TIPO_AGENCIA
-1,Agência Matriz,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,SP,2010-01-01,Física
-2,Agência Tatuapé,"Praça Sílvio Romero, 158 - Tatuapé, São Paulo - SP, 03323-000",São Paulo,SP,2010-06-14,Física
-3,Agência Campinas,"Av. Francisco Glicério, 895 - Vila Lidia, Campinas - SP, 13012-000",Campinas,SP,2012-03-04,Física
-4,Agência Osasco,"Av. Antônio Carlos Costa, 1000 - Bela Vista, Osasco - SP, 06053-014",Osasco,SP,2013-11-06,Física
-5,Agência Porto Alegre,"Av. Bento Gonçalves, 1924 - Partenon, Porto Alegre - RS, 90650-000",Porto Alegre,RS,2013-12-01,Física
-6,Agência Rio de Janeiro,"R. Sen. Dantas, 15 - Centro, Rio de Janeiro - RJ, 20031-202",Rio de Janeiro,RJ,2015-04-01,Física
-7,Agência Digital,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,SP,2015-08-01,Digital
-8,Agência Jardins,"Av. Brg. Faria Lima, 2491 - Jardim Paulistano, São Paulo - SP, 01452-000",São Paulo,SP,2018-01-09,Física
-9,Agência Florianópolis,"Av. Jorn. Rubéns de Arruda Ramos, 1280 - Centro, Florianópolis - SC, 88015-700",Florianópolis,SC,2019-10-09,Física
-10,Agência Recife,"Av. Conselheiro Aguiar, 4432 - Boa Viagem, Recife - PE, 51021-020",Recife,PE,2021-10-09,Física
+COD_AGENCIA,NOME,ENDERECO,COD_LOCALIDADE,DATA_ABERTURA,TIPO_AGENCIA
+1,Agência Matriz,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",973,2010-01-01,Física
+2,Agência Tatuapé,"Praça Sílvio Romero, 158 - Tatuapé, São Paulo - SP, 03323-000",973,2010-06-14,Física
+3,Agência Campinas,"Av. Francisco Glicério, 895 - Vila Lidia, Campinas - SP, 13012-000",941,2012-03-04,Física
+4,Agência Osasco,"Av. Antônio Carlos Costa, 1000 - Bela Vista, Osasco - SP, 06053-014",966,2013-11-06,Física
+5,Agência Porto Alegre,"Av. Bento Gonçalves, 1924 - Partenon, Porto Alegre - RS, 90650-000",860,2013-12-01,Física
+6,Agência Rio de Janeiro,"R. Sen. Dantas, 15 - Centro, Rio de Janeiro - RJ, 20031-202",700,2015-04-01,Física
+7,Agência Digital,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",973,2015-08-01,Digital
+8,Agência Jardins,"Av. Brg. Faria Lima, 2491 - Jardim Paulistano, São Paulo - SP, 01452-000",973,2018-01-09,Física
+9,Agência Florianópolis,"Av. Jorn. Rubéns de Arruda Ramos, 1280 - Centro, Florianópolis - SC, 88015-700",883,2019-10-09,Física
+10,Agência Recife,"Av. Conselheiro Aguiar, 4432 - Boa Viagem, Recife - PE, 51021-020",599,2021-10-09,Física
