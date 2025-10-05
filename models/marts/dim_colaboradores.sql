@@ -1,7 +1,7 @@
 with
     dim_colaboradores as (
         select *
-        from {{ ref('stg_erp__colaboradores') }}
+        from {{ ref('int_dimensao_colaboradores') }}
     )
 
 select *

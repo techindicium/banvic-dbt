@@ -1,7 +1,7 @@
 with
     dim_clientes as (
         select *
-        from {{ ref('stg_erp__clientes') }}
+        from {{ ref('int_dimensao_clientes') }}
     )
 
 select *

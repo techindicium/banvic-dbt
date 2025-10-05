@@ -53,3 +53,10 @@ sources:
             data_tests:
               - unique 
               - not_null
+      - name: localidades
+        description: Tabela que registra as informações de cidade e estado.
+        columns:
+          - name: cod_localidade
+            data_tests:
+              - unique 
+              - not_null

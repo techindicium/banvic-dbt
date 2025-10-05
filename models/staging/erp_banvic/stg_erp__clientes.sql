@@ -7,6 +7,7 @@ with
     , renomeado_transformacao as (
         select
             cast(cod_cliente as int) as pk_cliente
+            , cast(cod_localidade as int) as fk_localidade
             , primeiro_nome || ' ' || ultimo_nome as nome_cliente
             , email as email_cliente
             , tipo_cliente
@@ -15,9 +16,6 @@ with
             , cast(data_nascimento as date) as data_nascimento_cliente
             , endereco as endereco_cliente
             , cep as cep_cliente
-            , coalesce(
-                regexp_substr(endereco, '\\b[A-Z]{2}\\b'), 'Não Encontrado'
-            ) as uf_cliente
         from fonte_clientes
     )
 
