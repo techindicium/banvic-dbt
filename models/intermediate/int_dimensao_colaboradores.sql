@@ -21,8 +21,9 @@ with
             , localidades.cidade as cidade_colaborador
             , localidades.uf as uf_colaborador
         from colaboradores
-        left join localidades
+        left join localidades on colaboradores.fk_localidade = localidades.pk_localidade
     )
 
 select *
 from colaboradores_enriquecido
+
