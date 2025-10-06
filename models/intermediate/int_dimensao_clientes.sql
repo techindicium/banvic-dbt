@@ -23,8 +23,9 @@ with
             , localidades.cidade as cidade_cliente
             , localidades.uf as uf_cliente
         from clientes
-        left join localidades
+        left join localidades on clientes.fk_localidade = localidades.pk_localidade
     )
 
 select *
 from clientes_enriquecido
+
