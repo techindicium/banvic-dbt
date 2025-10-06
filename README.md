@@ -1,6 +1,6 @@
 # Indicium Academy
 
-Repositório para ser utilizado no curso de Formação de Analytics Engineering by Indicium. Faça o fork deste repositório e o utilize durante as aulas práticas para ter os dados do Banvic disponíveis em seu ambiente.
+Repositório para ser utilizado no curso de Formação de Analytics Engineering by Indicium. Faça o fork deste repositório e o utilize durante as aulas práticas para ter os dados do Banvic disponíveis em seu ambiente. Configurado para utilização com Databricks.
 
 ## Instruções
 
