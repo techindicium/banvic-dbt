@@ -19,9 +19,10 @@ with
             , localidades.cidade as cidade_agencia
             , localidades.uf as uf_agencia
         from agencias
-        left join localidades  on agencias.fk_localidade = localidades.pk_localidade
+        left join localidades on agencias.fk_localidade = localidades.pk_localidade
     )
 
 select *
 from agencias_enriquecido
+
 
