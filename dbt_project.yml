@@ -2,7 +2,7 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'my_new_project' # <-- Name of the project.
+name: 'dbt_banvic' # <-- Name of the project.
 version: '1.0.0'
 config-version: 2
 
@@ -32,7 +32,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 models:
-  my_new_project: # <-- Name of the project. If you renamed your project you have to change this as well
+  dbt_banvic: # <-- Name of the project. If you renamed your project you have to change this as well
     staging:
       +materialized: view
       +schema: staging
@@ -40,7 +40,7 @@ models:
     
     intermediate:
       +materialized: view
-      +schema: int
+      +schema: intermediate
       +tags: int
     
     marts:
@@ -49,7 +49,7 @@ models:
       +tags: marts
 
 seeds:
-  my_new_project: # <-- Name of the project. If you renamed your project you have to change this as well
+  dbt_banvic: # <-- Name of the project. If you renamed your project you have to change this as well
     banvic:
       +schema: erp_banvic
       +enabled: false
