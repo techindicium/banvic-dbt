@@ -5,87 +5,88 @@ seeds:
     config:
       quote_columns: false
       column_types: 
-        COD_AGENCIA: varchar
-        NOME: varchar
-        ENDERECO: varchar
-        CIDADE: varchar
-        UF: varchar
-        DATA_ABERTURA: varchar
-        TIPO_AGENCIA: varchar
+        COD_AGENCIA: string
+        NOME: string
+        ENDERECO: string
+        CIDADE: string
+        UF: string
+        DATA_ABERTURA: string
+        TIPO_AGENCIA: string
   
   - name: clientes
     config:
       quote_columns: false
       column_types: 
-        COD_CLIENTE: varchar
-        PRIMEIRO_NOME: varchar
-        ULTIMO_NOME: varchar
-        EMAIL: varchar
-        TIPO_CLIENTE: varchar
-        DATA_INCLUSAO: varchar
-        CPFCNPJ: varchar
-        DATA_NASCIMENTO: varchar
-        ENDERECO: varchar
-        CEP: varchar
+        COD_CLIENTE: string
+        PRIMEIRO_NOME: string
+        ULTIMO_NOME: string
+        EMAIL: string
+        TIPO_CLIENTE: string
+        DATA_INCLUSAO: string
+        CPFCNPJ: string
+        DATA_NASCIMENTO: string
+        ENDERECO: string
+        CEP: string
 
   - name: colaborador_agencia
     config:
       quote_columns: false
       column_types:
-        COD_COLABORADOR: varchar
-        COD_AGENCIA: varchar
+        COD_COLABORADOR: string
+        COD_AGENCIA: string
   
   - name: colaboradores
     config:
       quote_columns: false
       column_types:
-        COD_COLABORADOR: varchar
-        PRIMEIRO_NOME: varchar
-        ULTIMO_NOME: varchar
-        EMAIL: varchar
-        CPF: varchar
-        DATA_NASCIMENTO: varchar
-        ENDERECO: varchar
-        CEP: varchar
-        COD_GERENTE: varchar
+        COD_COLABORADOR: string
+        PRIMEIRO_NOME: string
+        ULTIMO_NOME: string
+        EMAIL: string
+        CPF: string
+        DATA_NASCIMENTO: string
+        ENDERECO: string
+        CEP: string
+        COD_GERENTE: string
   
   - name: contas
     config:
       quote_columns: false
       column_types:
-        NUM_CONTA: varchar
-        COD_CLIENTE: varchar
-        COD_AGENCIA: varchar
-        COD_COLABORADOR: varchar
-        TIPO_CONTA: varchar
-        DATA_ABERTURA: varchar
-        SALDO_TOTAL: varchar
-        SALDO_DISPONIVEL: varchar
-        DATA_ULTIMO_LANCAMENTO: varchar
+        NUM_CONTA: string
+        COD_CLIENTE: string
+        COD_AGENCIA: string
+        COD_COLABORADOR: string
+        TIPO_CONTA: string
+        DATA_ABERTURA: string
+        SALDO_TOTAL: string
+        SALDO_DISPONIVEL: string
+        DATA_ULTIMO_LANCAMENTO: string
 
   - name: propostas_credito
     config:
       quote_columns: false
       column_types:
-        COD_PROPOSTA: varchar
-        COD_CLIENTE: varchar
-        COD_COLABORADOR: varchar
-        DATA_ENTRADA_PROPOSTA: varchar
-        TAXA_JUROS_MENSAL: varchar
-        VALOR_PROPOSTA: varchar
-        VALOR_FINANCIAMENTO: varchar
-        VALOR_ENTRADA: varchar
-        VALOR_PRESTACAO: varchar
-        QUANTIDADE_PARCELAS: varchar
-        CARENCIA: varchar
-        STATUS_PROPOSTA: varchar
+        COD_PROPOSTA: string
+        COD_CLIENTE: string
+        COD_COLABORADOR: string
+        DATA_ENTRADA_PROPOSTA: string
+        TAXA_JUROS_MENSAL: string
+        VALOR_PROPOSTA: string
+        VALOR_FINANCIAMENTO: string
+        VALOR_ENTRADA: string
+        VALOR_PRESTACAO: string
+        QUANTIDADE_PARCELAS: string
+        CARENCIA: string
+        STATUS_PROPOSTA: string
   
   - name: transacoes
     config:
       quote_columns: false
       column_types:
-        COD_TRANSACAO: varchar
-        NUM_CONTA: varchar
-        DATA_TRANSACAO: varchar
-        NOME_TRANSACAO: varchar
-        VALOR_TRANSACAO: varchar
+        COD_TRANSACAO: string
+        NUM_CONTA: string
+        DATA_TRANSACAO: string
+        NOME_TRANSACAO: string
+        VALOR_TRANSACAO: string
+
