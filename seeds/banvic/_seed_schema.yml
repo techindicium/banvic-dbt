@@ -8,8 +8,6 @@ seeds:
         COD_AGENCIA: string
         NOME: string
         ENDERECO: string
-        CIDADE: string
-        UF: string
         DATA_ABERTURA: string
         TIPO_AGENCIA: string
   
