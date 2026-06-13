@@ -39,4 +39,4 @@ seeds:
   my_new_project: # <-- Name of the project. If you renamed your project you have to change this as well
     banvic:
       +schema: erp_banvic
-      +enabled: false
+      +enabled: true
