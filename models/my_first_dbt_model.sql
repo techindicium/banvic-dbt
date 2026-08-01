@@ -9,7 +9,7 @@
 
 {{ config(materialized='table') }}
 
--- Uma alteraçãoxaaa
+-- Uma alteração
 
 with source_data as (
 
